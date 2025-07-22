@@ -1,0 +1,26 @@
+🛠️ Admin
+- Loss of SAF Cards
+- Application for ISAAC Card
+
+🌿 Leaves
+- Medical Leaves
+- Annual Leaves
+- Compassionate Leaves
+
+💸 Claims
+- Spectacle Claims
+- Transport Claim
+- Medical Claim
+- Dental Claim
+
+🎓 Financial Aid
+- Eligibility (FA)
+- Application (FA)
+
+⚕️ Service Injury
+- Eligibility (SI)
+- Application (SI)
+
+📬 Other Admin Queries
+- Link to 1GDS defence Mail
+- FormSG
